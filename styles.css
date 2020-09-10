@@ -1,0 +1,22 @@
+body {
+    background: rgb(204, 204, 204);
+}
+
+#title{
+    text-align: center;
+}
+#img-div {
+    border-radius: 7px;
+    text-align: center;
+    background-color: white;
+    width: min-content;
+    padding: 0%;
+    border: solid black;
+    margin: auto;
+}
+#main-content {
+    margin-left: 50px;
+}
+#footer-content {
+    margin-left: 50px;
+}
